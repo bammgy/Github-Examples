@@ -53,7 +53,7 @@ cd GitHub-Examples
 We will need to create our own SSH rsa key pair
 
 ```sh
-sshe-keygen -t rsa
+ssh-keygen -t rsa
 ```
 
 For WSL users and if you crete a non default key you might need to add it
